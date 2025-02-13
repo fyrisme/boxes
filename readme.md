@@ -2,7 +2,7 @@
 
 An experimental canvas renderer for "web-ish" node trees
 
-<img src="docs/test-images/browser.png" width="400px"/>
+<img src="docs/test-images/browser.png" width="600px"/>
 
 Current features:
 
